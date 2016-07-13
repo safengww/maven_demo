@@ -3,7 +3,7 @@
 
 	<groupId>test</groupId>
 	<artifactId>demo1</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.1.0</version>
 	<packaging>jar</packaging>
 
 	<name>demo1</name>
@@ -12,7 +12,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/safengww/maven_demo.git</connection>
 <!-- <developerConnection>scm:svn:https://192.168.1.100:8443/svn/myapp/trunk/</developerConnection> -->
-	  <tag>HEAD</tag>
+	  <tag>demo1-1.1.0</tag>
   </scm>
 
 	<properties>
